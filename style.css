@@ -1,0 +1,80 @@
+.b {
+    background-color: rgb(95, 27, 27);
+    justify-content: space-between;
+    display: flex;
+    padding: 20px; 
+    border-bottom: 10px solid orangered; 
+
+}
+
+.li {
+    text-decoration: none;
+    display: flex;
+}
+
+.fronted {
+color: rgb(252, 251, 248);
+font-family: ebrima;
+font-size: 50px;
+
+
+}
+
+.masters{
+font-size: 60px;
+color: tomato;
+font-family: forte;
+
+}
+
+.button {
+    background-color: tomato;   
+    color: white;   
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  border-radius: 20px;   
+     border: 1px solid tomato;      
+}
+.links {
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+   color: whitesmoke;
+   font-size: 20px;
+  font-family: Open Sans,sans-serif;  
+}
+
+ul li a { 
+    display: flex;
+    text-decoration: none;
+    padding-right: 15px;
+    color: white;
+ }
+
+ .class {
+    background-image: url(happy-operator.jpg) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: auto;
+ }
+
+ .form {
+    height: 200px;
+    width: 700px;
+    
+
+    position: fixed;
+    top: 30%;
+    left: 48%;
+    margin-top: 100px;
+    margin-left: -200px;
+    
+}
+ .label {
+     font-family:gabriola ;
+     font-size: 20px;
+     color: rgb(231, 68, 68);
+ }
